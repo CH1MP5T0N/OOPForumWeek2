@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Scanner;
-public class work {
+public class machineproblem3 {
     public static void main(String[] args) {
         //MACHINE PROBLEM 3
         Scanner input = new Scanner(System.in);
